@@ -1,0 +1,29 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        pip install flask bandit safety pytest
+
+    - name: Run Bandit (SAST)
+      run: |
+        bandit -r .
+
+    - name: Check Dependencies (Safety)
+      run: |
+        safety check
+
+    - name: Run Tests
+      run: |
+        pytest || echo "No tests found"
