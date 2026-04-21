@@ -1,0 +1,86 @@
+2026-04-08 15:09:22,179 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 15:09:22,179 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 15:09:32,246 [INFO] 127.0.0.1 - - [08/Apr/2026 15:09:32] "GET / HTTP/1.1" 200 -
+2026-04-08 15:09:53,024 [WARNING] Failed login attempt: user=admin ip=127.0.0.1
+2026-04-08 15:09:53,027 [INFO] 127.0.0.1 - - [08/Apr/2026 15:09:53] "POST / HTTP/1.1" 200 -
+2026-04-15 12:19:59,620 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 12:19:59,621 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-15 12:20:04,933 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 12:20:04,933 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-15 12:20:14,227 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 12:20:14,227 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-15 12:20:19,211 [INFO] 127.0.0.1 - - [15/Apr/2026 12:20:19] "GET / HTTP/1.1" 200 -
+2026-04-15 12:20:19,921 [INFO] 127.0.0.1 - - [15/Apr/2026 12:20:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-15 14:30:18,465 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-15 14:30:18,466 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-15 14:30:21,815 [INFO] 127.0.0.1 - - [15/Apr/2026 14:30:21] "GET / HTTP/1.1" 200 -
+2026-04-15 14:30:36,886 [WARNING] Invalid username format attempted: amin '
+2026-04-15 14:30:36,891 [INFO] 127.0.0.1 - - [15/Apr/2026 14:30:36] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 10:51:12,374 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-17 10:51:12,374 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-17 10:51:31,386 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7000
+2026-04-17 10:51:31,386 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-17 10:51:42,055 [INFO] 127.0.0.1 - - [17/Apr/2026 10:51:42] "GET / HTTP/1.1" 200 -
+2026-04-17 10:51:42,853 [INFO] 127.0.0.1 - - [17/Apr/2026 10:51:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 10:51:50,904 [WARNING] Invalid username format attempted: '
+2026-04-17 10:51:50,907 [INFO] 127.0.0.1 - - [17/Apr/2026 10:51:50] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 10:53:11,554 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:11] "GET / HTTP/1.1" 200 -
+2026-04-17 10:53:11,754 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 10:53:23,630 [WARNING] Invalid username format attempted: admin' --
+2026-04-17 10:53:23,633 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:23] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 10:53:33,919 [WARNING] Invalid username format attempted: ' OR 1=1 --
+2026-04-17 10:53:33,922 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:33] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 10:53:43,630 [WARNING] Invalid username format attempted: '
+2026-04-17 10:53:43,640 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:43] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 10:53:52,831 [WARNING] Invalid username format attempted: 'a'='a
+2026-04-17 10:53:52,834 [INFO] 127.0.0.1 - - [17/Apr/2026 10:53:52] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-04-17 11:01:34,335 [INFO] Successful login: user=admin ip=127.0.0.1
+2026-04-17 11:01:34,339 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:34] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-04-17 11:01:34,353 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:34] "GET /dashboard HTTP/1.1" 200 -
+2026-04-17 11:01:41,125 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:41] "GET /upload HTTP/1.1" 200 -
+2026-04-17 11:01:53,507 [WARNING] Blocked file upload: isrm.php by user=admin
+2026-04-17 11:01:53,509 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:53] "POST /upload HTTP/1.1" 200 -
+2026-04-17 11:01:55,809 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:55] "GET /upload HTTP/1.1" 200 -
+2026-04-17 11:01:58,556 [INFO] Admin panel accessed by user=admin
+2026-04-17 11:01:58,560 [INFO] 127.0.0.1 - - [17/Apr/2026 11:01:58] "GET /admin HTTP/1.1" 200 -
+2026-04-17 11:02:03,614 [INFO] 127.0.0.1 - - [17/Apr/2026 11:02:03] "GET /search HTTP/1.1" 200 -
+2026-04-17 11:02:08,427 [INFO] 127.0.0.1 - - [17/Apr/2026 11:02:08] "POST /search HTTP/1.1" 200 -
+2026-04-17 11:02:52,389 [INFO] 127.0.0.1 - - [17/Apr/2026 11:02:52] "GET /search HTTP/1.1" 200 -
+2026-04-17 11:02:54,673 [INFO] 127.0.0.1 - - [17/Apr/2026 11:02:54] "GET /search HTTP/1.1" 200 -
+2026-04-17 11:02:57,171 [INFO] 127.0.0.1 - - [17/Apr/2026 11:02:57] "POST /search HTTP/1.1" 200 -
+2026-04-17 11:03:03,342 [INFO] 127.0.0.1 - - [17/Apr/2026 11:03:03] "GET /search HTTP/1.1" 200 -
+2026-04-17 11:03:06,304 [INFO] Admin panel accessed by user=admin
+2026-04-17 11:03:06,308 [INFO] 127.0.0.1 - - [17/Apr/2026 11:03:06] "GET /admin HTTP/1.1" 200 -
+2026-04-17 11:03:08,372 [INFO] 127.0.0.1 - - [17/Apr/2026 11:03:08] "GET /upload HTTP/1.1" 200 -
+2026-04-17 11:13:50,707 [WARNING] Blocked file upload: isrm.php by user=admin
+2026-04-17 11:13:50,710 [INFO] 127.0.0.1 - - [17/Apr/2026 11:13:50] "POST /upload HTTP/1.1" 200 -
+2026-04-21 19:03:11,838 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7000
+2026-04-21 19:03:11,838 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-21 19:03:16,233 [INFO] 127.0.0.1 - - [21/Apr/2026 19:03:16] "GET / HTTP/1.1" 200 -
+2026-04-21 19:03:17,276 [INFO] 127.0.0.1 - - [21/Apr/2026 19:03:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-21 19:04:10,564 [INFO] Successful login: user=student ip=127.0.0.1
+2026-04-21 19:04:10,571 [INFO] 127.0.0.1 - - [21/Apr/2026 19:04:10] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-04-21 19:04:10,596 [INFO] 127.0.0.1 - - [21/Apr/2026 19:04:10] "GET /dashboard HTTP/1.1" 200 -
+2026-04-21 19:04:17,909 [INFO] 127.0.0.1 - - [21/Apr/2026 19:04:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-21 19:06:40,586 [INFO] 127.0.0.1 - - [21/Apr/2026 19:06:40] "GET /dashboard HTTP/1.1" 200 -
+2026-04-21 19:06:45,779 [INFO] Successful login: user=student ip=127.0.0.1
+2026-04-21 19:06:45,781 [INFO] 127.0.0.1 - - [21/Apr/2026 19:06:45] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-04-21 19:06:45,786 [INFO] 127.0.0.1 - - [21/Apr/2026 19:06:45] "GET /dashboard HTTP/1.1" 200 -
+2026-04-21 19:06:48,585 [INFO] 127.0.0.1 - - [21/Apr/2026 19:06:48] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-21 19:07:58,836 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7000
+2026-04-21 19:07:58,837 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-21 19:08:01,910 [INFO] 127.0.0.1 - - [21/Apr/2026 19:08:01] "GET / HTTP/1.1" 200 -
+2026-04-21 19:08:27,717 [INFO] Successful login: user=student ip=127.0.0.1
+2026-04-21 19:08:27,719 [INFO] 127.0.0.1 - - [21/Apr/2026 19:08:27] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-04-21 19:08:27,735 [INFO] 127.0.0.1 - - [21/Apr/2026 19:08:27] "GET /dashboard HTTP/1.1" 200 -
+2026-04-21 19:08:30,705 [INFO] 127.0.0.1 - - [21/Apr/2026 19:08:30] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-21 19:12:32,300 [INFO] 127.0.0.1 - - [21/Apr/2026 19:12:32] "GET / HTTP/1.1" 200 -
